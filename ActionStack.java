@@ -4,6 +4,8 @@ public class ActionStack {
     private int top;
     private int maxSize;
 
+
+    
     public ActionStack(int size) {
 
         maxSize = size;
