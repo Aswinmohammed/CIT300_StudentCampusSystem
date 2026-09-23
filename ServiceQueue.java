@@ -4,7 +4,7 @@ public class ServiceQueue {
     private int front;
     private int rear;
     private int nItems;
-    private int maxSize;
+    private int  maxSize;
 
     public ServiceQueue(int size) {
 
