@@ -1,10 +1,11 @@
 public class CampusGraph {
 
-    private String[] locations;
+    private  String[] locations;
     private int[][] adjacencyMatrix;
 
     private int locationCount;
     private int maxLocations;
+    
 
     public CampusGraph(int size) {
 
