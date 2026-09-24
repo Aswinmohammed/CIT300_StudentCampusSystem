@@ -3,8 +3,6 @@ public class ActionStack {
     private String[] stack;
     private int top;
     private int maxSize;
-
-
     
     public ActionStack(int size) {
 
