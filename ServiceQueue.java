@@ -44,7 +44,7 @@ public class ServiceQueue {
         nItems++;
 
         System.out.println(
-                "Service request added successfully.");
+                "The Service request added successfully.");
     }
 
     public String remove() {
